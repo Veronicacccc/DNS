@@ -1,0 +1,14 @@
+﻿  DNS.cpp
+c:\users\86184\desktop\dns\dns\dns.cpp(74): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+c:\users\86184\desktop\dns\dns\dns.cpp(224): warning C4476: "printf": 格式说明符中的类型字段字符“ ”未知
+c:\users\86184\desktop\dns\dns\dns.cpp(224): warning C4476: "printf": 格式说明符中的类型字段字符“\xe2”未知
+c:\users\86184\desktop\dns\dns\dns.cpp(314): warning C4476: "printf": 格式说明符中的类型字段字符“ ”未知
+c:\users\86184\desktop\dns\dns\dns.cpp(314): warning C4476: "printf": 格式说明符中的类型字段字符“\xe2”未知
+c:\users\86184\desktop\dns\dns\dns.cpp(428): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+c:\users\86184\desktop\dns\dns\dns.cpp(519): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+c:\users\86184\desktop\dns\dns\dns.cpp(523): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+c:\users\86184\desktop\dns\dns\dns.cpp(108): warning C4715: “Trans”: 不是所有的控件路径都返回值
+  DNS.vcxproj -> C:\Users\86184\Desktop\DNS\Debug\DNS.exe
