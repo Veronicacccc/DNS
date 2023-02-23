@@ -1,2 +1,3 @@
-# DNS
-A DNS protocol server implemented using the socket socket API of C language.
+# DNS中继服务器
+
+使用C语言的socket套接字API实现的DNS协议服务器。在基础的DNS功能上还实现了负载均衡与黑白名单IP验证。
